@@ -373,7 +373,6 @@ I've worked with a wide range of embedded and mechatronics components:
 
 <img src="https://img.shields.io/github/followers/PhantomMW?style=for-the-badge&logo=github&label=Followers" />
 <img src="https://img.shields.io/github/stars/PhantomMW?style=for-the-badge&logo=github&label=Total%20Stars" />
-<img src="https://img.shields.io/github/repo-size/PhantomMW/PhantomMW?style=for-the-badge&logo=github&label=Profile%20README%20Size" />
 
 </div>
 
