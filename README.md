@@ -218,11 +218,11 @@ AI / Cloud development learning and **HCCDA-AI** certification preparation
 
 ---
 
-# 📈 GitHub Activity
+# 📊 Coding Profile
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhantomMW&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=1F6FEB&hide_border=true&custom_title=My%20Contribution%20Activity" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomMW&layout=donut-vertical&theme=github_dark&hide_border=true&langs_count=8" height="300" alt="Most used programming languages"/>
 
 </div>
 
