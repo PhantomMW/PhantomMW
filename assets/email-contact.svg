@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="72" viewBox="0 0 320 72">
+<rect width="320" height="72" rx="10" fill="#EA4335"/>
+<g transform="translate(18 9)">
+  <rect width="54" height="54" rx="10" fill="#FFFFFF"/>
+  <path d="M8 14h38c2.2 0 4 1.8 4 4v18c0 2.2-1.8 4-4 4H8c-2.2 0-4-1.8-4-4V18c0-2.2 1.8-4 4-4Zm1 5 18 13 18-13" fill="none" stroke="#EA4335" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="92" y="45" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">EMAIL ME</text>
+</svg>
