@@ -401,25 +401,3 @@ and opportunities to turn ambitious concepts into real-world solutions.
 <sub>💡 AI • Robotics • Embedded Systems • Intelligent Engineering</sub>
 
 </div>
-
----
-
-<div align="center">
-
-### 🚀 Turning ideas into intelligent systems.
-
-<sub>From code and algorithms to sensors, hardware, and real-world impact.</sub>
-
-</div>
-
-<div align="center">
-
-### ⚡ BUILD • LEARN • ENGINEER • INNOVATE
-
-**AI × Robotics × Embedded Systems × Software**
-
-<br/>
-
-*"The best projects are built where different fields meet."*
-
-</div>
