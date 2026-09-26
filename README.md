@@ -26,7 +26,9 @@
 
 <hr/>
 
-<h3>🚀 BUILD • LEARN • ENGINEER • INNOVATE</h3>
+<div align="center">
+<img src="./assets/build-learn-animate.svg" alt="BUILD • LEARN • ENGINEER • INNOVATE" width="900"/>
+</div>
 
 </div>
 
