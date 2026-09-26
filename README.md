@@ -428,22 +428,40 @@ AI / Cloud development learning and **HCCDA-AI** certification preparation
 *"The best projects are built where different fields meet."*
 
 </div<p>
-  <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python" width="52" alt="Python"/></a>
-  <a href="https://pytorch.org/"><img src="https://cdn.simpleicons.org/pytorch" width="52" alt="PyTorch"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://cdn.simpleicons.org/tensorflow" width="52" alt="TensorFlow"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn" width="52" alt="scikit-learn"/></a>
-  <a href="https://keras.io/"><img src="https://cdn.simpleicons.org/keras" width="52" alt="Keras"/></a>
-  <a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy" width="52" alt="NumPy"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas" width="52" alt="Pandas"/></a>
-  <a href="https://opencv.org/"><img src="https://cdn.simpleicons.org/opencv" width="52" alt="OpenCV"/></a>
-  <a href="https://jupyter.org/"><img src="https://cdn.simpleicons.org/jupyter" width="52" alt="Jupyter"/></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="52" alt="Python"/></a>
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="52" alt="PyTorch"/></a>
+  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="52" alt="TensorFlow"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="52" alt="Scikit-learn"/></a>
+  <a href="https://keras.io/"><img src="https://skillicons.dev/icons?i=keras" width="52" alt="Keras"/></a>
+  <a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy/FFFFFF" width="52" alt="NumPy"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas/FFFFFF" width="52" alt="Pandas"/></a>
+  <a href="https://opencv.org/"><img src="https://cdn.simpleicons.org/opencv/FFFFFF" width="52" alt="OpenCV"/></a>
+  <a href="https://jupyter.org/"><img src="https://cdn.simpleicons.org/jupyter/FFFFFF" width="52" alt="Jupyter"/></a>
 </p>
 
 <p>
-  <a href="https://openai.com/"><img src="https://cdn.simpleicons.org/openai" width="52" alt="OpenAI"/></a>
-  <a href="https://ai.google.dev/"><img src="https://cdn.simpleicons.org/googlegemini" width="52" alt="Google Gemini"/></a>
-  <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface" width="52" alt="Hugging Face"/></a>
-  <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain" width="52" alt="LangChain"/></a>
+  <a href="https://openai.com/"><img src="https://cdn.simpleicons.org/openai/FFFFFF" width="52" alt="OpenAI"/></a>
+  <a href="https://ai.google.dev/"><img src="https://cdn.simpleicons.org/googlegemini/FFFFFF" width="52" alt="Gemini"/></a>
+  <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFFFFF" width="52" alt="Hugging Face"/></a>
+  <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="52" alt="LangChain"/></a>
+</p>
+
+<p>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="52" alt="C++"/></a>
+  <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="52" alt="Arduino"/></a>
+  <a href="https://www.espressif.com/en/products/socs/esp32"><img src="https://skillicons.dev/icons?i=esp32" width="52" alt="ESP32"/></a>
+  <a href="https://www.arm.com/"><img src="https://cdn.simpleicons.org/arm/FFFFFF" width="52" alt="ARM"/></a>
+  <a href="https://www.st.com/"><img src="https://cdn.simpleicons.org/stmicroelectronics/FFFFFF" width="52" alt="STM32"/></a>
+  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab" width="52" alt="MATLAB"/></a>
+</p>
+
+<p>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="52" alt="Git"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="52" alt="VS Code"/></a>
+  <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" width="52" alt="Visual Studio"/></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="52" alt="MySQL"/></a>
+  <a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit/FFFFFF" width="52" alt="Streamlit"/></a>
 </p>
 
 <p>
