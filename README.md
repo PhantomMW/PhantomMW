@@ -206,25 +206,6 @@ A mobile robot concept designed to navigate between **six tables** using a black
 
 ---
 
-## 🏫 Smart Class — IoT Automation
-
-An embedded smart-classroom system combining sensing, identification, automation, and environmental monitoring.
-
-### Hardware
-
-**ESP32 · DHT22 · IR Sensor · LDR · RFID · MQ-2 · NEMA17 · A4988 · 12V Fan · LED Strip**
-
-### Functions
-
-- 🌡️ Temperature / humidity monitoring
-- 💡 Smart lighting
-- 🪪 RFID identification
-- 🧪 Gas detection
-- 🌬️ Automated cooling
-- ⚙️ Stepper motor control
-
----
-
 ## 📡 Radar Detection System
 
 A radar-style detection prototype based on:
