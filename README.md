@@ -252,6 +252,32 @@ Focus: **Inclusive Early Warning & Disaster Resilience**
 
 ---
 
+# 🏗️ Project Experience
+
+## 🎮 STM32 Embedded Gaming Hub
+
+### Embedded Gaming System
+
+A modular embedded **Gaming Hub** developed during ITI, combining multiple interactive games and applications into one STM32-based system.
+
+### Features
+
+- 🧮 Math Quiz
+- 🧠 Memory Match
+- 🐍 Snake Game
+- 🎵 Music Maker
+- ⚙️ Settings
+- 🖥️ ST7735S TFT Display
+- 💡 8×8 LED Matrix
+- 🎮 Physical Buttons & IR Remote
+- 🔊 Audio / Sound Control
+
+### Technologies
+
+**ARM / STM32 · Embedded C · GPIO · Timers · EXTI / Interrupts · ST7735S TFT · 74HC595 Shift Registers · NEC IR Decoding · DAC / Audio**
+
+---
+
 # 🎓 Learning & Training
 
 ### 🏢 Information Technology Institute — ITI
