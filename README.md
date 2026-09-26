@@ -15,21 +15,6 @@
 
 <br/>
 
-<p>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="56" alt="Python"/></a>
-  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="56" alt="PyTorch"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="56" alt="TensorFlow"/></a>
-  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="56" alt="C++"/></a>
-  <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="56" alt="Arduino"/></a>
-  <a href="https://www.espressif.com/en/products/socs/esp32"><img src="https://skillicons.dev/icons?i=esp32" width="56" alt="ESP32"/></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="56" alt="Git"/></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="56" alt="GitHub"/></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="56" alt="MySQL"/></a>
-  <a href="https://streamlit.io/"><img src="https://skillicons.dev/icons?i=streamlit" width="56" alt="Streamlit"/></a>
-</p>
-
-<br/>
-
 <hr/>
 
 <h3>🚀 BUILD • LEARN • ENGINEER • INNOVATE</h3>
