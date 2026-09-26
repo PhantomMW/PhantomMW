@@ -228,21 +228,6 @@ AI / Cloud development learning and **HCCDA-AI** certification preparation
 
 </div>
 
-# 🎯 Current Focus
-
-```text
-🧠 Generative AI
-🤖 Intelligent Robotics
-🔌 Embedded Systems
-🌐 AI-Powered Applications
-📊 Machine Learning
-⚙️ Automation & Control
-☁️ AI + Cloud
-🚀 Real-World Engineering Projects
-```
-
----
-
 # 💡 Areas of Interest
 
 - Artificial Intelligence
