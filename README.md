@@ -1,12 +1,8 @@
 <div align="center">
 
-<a href="https://github.com/PhantomMW">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=MOHAMMED%20WAEL%20NABIL&fontSize=48&fontColor=58A6FF&fontAlignY=55&desc=MECHATRONICS%20ENGINEERING%20%7C%20AI%20%7C%20ROBOTICS%20%7C%20EMBEDDED%20SYSTEMS&descSize=16&descAlignY=88&descColor=58A6FF" alt="Mohammed Wael Nabil"/>
-</a>
+<h1>👋 MOHAMMED WAEL NABIL</h1>
 
-<br/>
-
-<h2>👋 Hi there, I'm Mohammed</h2>
+<h3>▸ AI &amp; MACHINE LEARNING &nbsp; ▸ ROBOTICS &nbsp; ▸ EMBEDDED SYSTEMS &nbsp; ▸ MECHATRONICS</h3>
 
 <p>
   <strong>Mechatronics Engineering Student</strong> | <strong>AI &amp; Robotics Enthusiast</strong><br/>
@@ -16,16 +12,23 @@
 <br/>
 
 <p>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="56" alt="Python"/></a>
-  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="56" alt="PyTorch"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="56" alt="TensorFlow"/></a>
-  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="56" alt="C++"/></a>
-  <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="56" alt="Arduino"/></a>
-  <a href="https://www.espressif.com/en/products/socs/esp32"><img src="https://skillicons.dev/icons?i=esp32" width="56" alt="ESP32"/></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="56" alt="Git"/></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="56" alt="GitHub"/></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="56" alt="MySQL"/></a>
-  <a href="https://streamlit.io/"><img src="https://skillicons.dev/icons?i=streamlit" width="56" alt="Streamlit"/></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/></a>
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="55" alt="PyTorch"/></a>
+  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="55" alt="TensorFlow"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="55" alt="scikit-learn"/></a>
+  <a href="https://www.langchain.com/"><img src="https://skillicons.dev/icons?i=langchain" width="55" alt="LangChain"/></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="55" alt="C++"/></a>
+  <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="55" alt="Arduino"/></a>
+  <a href="https://www.espressif.com/en/products/socs/esp32"><img src="https://skillicons.dev/icons?i=esp32" width="55" alt="ESP32"/></a>
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="https://skillicons.dev/icons?i=arm" width="55" alt="ARM"/></a>
+  <a href="https://www.st.com/"><img src="https://skillicons.dev/icons?i=stm32" width="55" alt="STM32"/></a>
+  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab" width="55" alt="MATLAB"/></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code"/></a>
+  <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" width="55" alt="Visual Studio"/></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL"/></a>
+  <a href="https://streamlit.io/"><img src="https://skillicons.dev/icons?i=streamlit" width="55" alt="Streamlit"/></a>
 </p>
 
 <br/>
