@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110">
+<defs>
+  <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00D9FF"/>
+    <stop offset="50%" stop-color="#8B5CF6"/>
+    <stop offset="100%" stop-color="#FF4ECD"/>
+  </linearGradient>
+</defs>
+<style>
+  .wave{transform-box:fill-box;transform-origin:70% 90%;animation:wave 1.8s ease-in-out infinite}
+  @keyframes wave{0%,100%{transform:rotate(0deg)}20%{transform:rotate(18deg)}40%{transform:rotate(-10deg)}60%{transform:rotate(16deg)}80%{transform:rotate(-4deg)}}
+  .txt{font-family:Arial,sans-serif;font-size:42px;font-weight:700;fill:url(#g)}
+</style>
+<text x="65" y="73" font-size="55" class="wave">👋</text>
+<text x="135" y="70" class="txt">Hi there, I'm Mohammed Wael!</text>
+</svg>
