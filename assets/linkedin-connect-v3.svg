@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="72" viewBox="0 0 320 72">
+<rect width="320" height="72" rx="10" fill="#0A66C2"/>
+<g transform="translate(20 9)">
+<rect x="0" y="0" width="54" height="54" rx="10" fill="#fff"/>
+<path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V8.75h3.414v1.561h.046c.476-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.536zM5.337 7.188a2.062 2.062 0 1 1 0-4.124 2.062 2.062 0 0 1 0 4.124zM6.956 20.452H3.717V8.75h3.239v11.702z" transform="translate(12 12) scale(1.65)" fill="#0A66C2"/>
+</g>
+<text x="92" y="45" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fff">CONNECT WITH ME</text>
+<g opacity=".22"><rect x="-80" y="0" width="70" height="72" fill="#fff" transform="skewX(-18)">
+<animate attributeName="x" values="-90;350" dur="2.8s" repeatCount="indefinite"/>
+</rect></g>
+<circle cx="292" cy="36" r="4" fill="#fff" opacity=".8">
+<animate attributeName="r" values="3;6;3" dur="1.6s" repeatCount="indefinite"/>
+</circle>
+</svg>
