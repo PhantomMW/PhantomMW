@@ -53,7 +53,7 @@ I'm **Mohammed Wael Nabil**, a **Mechatronics Engineering student** with a stron
 
 I enjoy building projects that connect the digital world with the physical world — from **AI-powered applications and backend systems** to **microcontrollers, sensors, motors, IoT devices, and autonomous robotic concepts**.
 
-### What I care about
+### What I care about:
 
 - 🧠 Artificial Intelligence & Generative AI
 - 🤖 Robotics & Intelligent Automation
