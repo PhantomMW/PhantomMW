@@ -401,7 +401,7 @@ and opportunities to turn ambitious concepts into real-world solutions.
 <br/>
 
 <a href="mailto:mw252869@gmail.com">
-<img src="./assets/email-contact.svg" width="320" height="72" alt="Email — mw252869@gmail.com"/>
+<img src="./assets/email-contact-v2.svg" width="320" height="72" alt="Email — mw252869@gmail.com"/>
 </a>
 
 </div>
