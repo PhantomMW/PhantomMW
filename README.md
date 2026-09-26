@@ -1,33 +1,45 @@
 <div align="center">
 
-<h1>👋 Welcome to My GitHub Profile</h1>
+<h1>👋 MOHAMMED WAEL NABIL</h1>
 
-<h2>MOHAMMED WAEL NABIL</h2>
-
-<p>
-  <strong>🤖 AI • Robotics • Embedded Systems • Software Engineering</strong>
-</p>
+<h3>🤖 AI • Robotics • Embedded Systems • Mechatronics</h3>
 
 <p>
-  <em>Mechatronics Engineering Student building intelligent systems at the intersection of AI, software, electronics, and robotics.</em>
-</p>
-
-<p>
-  <strong>AI &amp; Machine Learning</strong> &nbsp;•&nbsp;
-  <strong>Robotics</strong> &nbsp;•&nbsp;
-  <strong>Embedded Systems</strong> &nbsp;•&nbsp;
-  <strong>Mechatronics</strong>
+  <strong>Mechatronics Engineering Student</strong><br/>
+  Building intelligent systems where <strong>AI</strong>, <strong>software</strong>, <strong>electronics</strong>, and <strong>robotics</strong> meet.
 </p>
 
 <br/>
 
 <p>
-  <strong>🚀 BUILDING • LEARNING • ENGINEERING • INNOVATING</strong>
+  <strong>🧠 AI &amp; Machine Learning</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>🤖 Robotics</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>🔌 Embedded Systems</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>⚙️ Mechatronics</strong>
 </p>
+
+<br/>
+
+<p>
+  <a href="https://www.linkedin.com/in/mohammed-wael-nabil"><strong>LinkedIn</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://wa.me/201120742351"><strong>WhatsApp</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://monjed.vercel.app/"><strong>MONJED AI</strong></a>
+</p>
+
+<br/>
+
+<h3>🚀 BUILD • LEARN • ENGINEER • INNOVATE</h3>
 
 </div>
 
 ---
+
+
 
 
 ## 🧠 About Me
