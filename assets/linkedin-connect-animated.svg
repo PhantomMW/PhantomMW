@@ -2,7 +2,7 @@
 <rect width="320" height="72" rx="10" fill="#0A66C2"/>
 <g transform="translate(20 14)">
 <rect x="0" y="0" width="44" height="44" rx="7" fill="#fff"/>
-<path d="M10 17h4.2v2.1h.1c.6-1.1 2.1-2.5 4.4-2.5 4.7 0 5.6 3.1 5.6 7.2V31h-4.2v-6.4c0-1.5 0-3.5-2.2-3.5-2.2 0-2.5 1.7-2.5 3.4V31H10V17Zm-2.1-5.9a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5ZM6 17h3.8v14H6V17Z" fill="#0A66C2"/>
+<path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V8.75h3.414v1.561h.046c.476-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.536zM5.337 7.188a2.062 2.062 0 1 1 0-4.124 2.062 2.062 0 0 1 0 4.124zM6.956 20.452H3.717V8.75h3.239v11.702z" transform="translate(2 2) scale(1.05)" fill="#0A66C2"/>
 </g>
 <text x="82" y="45" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#fff">LET'S CONNECT</text>
 <g opacity=".22"><rect x="-80" y="0" width="70" height="72" fill="#fff" transform="skewX(-18)">
