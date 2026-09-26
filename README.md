@@ -218,16 +218,13 @@ AI / Cloud development learning and **HCCDA-AI** certification preparation
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/PhantomMW?style=for-the-badge&logo=github&label=Followers" />
-<img src="https://img.shields.io/github/stars/PhantomMW?style=for-the-badge&logo=github&label=Total%20Stars" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhantomMW&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=1F6FEB&hide_border=true&custom_title=My%20Contribution%20Activity" width="95%"/>
 
 </div>
-
----
 
 # 🎯 Current Focus
 
