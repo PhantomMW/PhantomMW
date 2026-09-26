@@ -16,19 +16,19 @@
   <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="55" alt="PyTorch"/></a>
   <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="55" alt="TensorFlow"/></a>
   <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="55" alt="scikit-learn"/></a>
-  <a href="https://www.langchain.com/"><img src="https://skillicons.dev/icons?i=langchain" width="55" alt="LangChain"/></a>
+  <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="55" alt="LangChain"/></a>
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="55" alt="C++"/></a>
   <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="55" alt="Arduino"/></a>
-  <a href="https://www.espressif.com/en/products/socs/esp32"><img src="https://skillicons.dev/icons?i=esp32" width="55" alt="ESP32"/></a>
-  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="https://skillicons.dev/icons?i=arm" width="55" alt="ARM"/></a>
-  <a href="https://www.st.com/"><img src="https://skillicons.dev/icons?i=stm32" width="55" alt="STM32"/></a>
+  <a href="https://www.espressif.com/en/products/socs/esp32"><img src="https://cdn.simpleicons.org/espressif/FFFFFF" width="55" alt="ESP32"/></a>
+  <a href="https://www.arm.com/"><img src="https://cdn.simpleicons.org/arm/FFFFFF" width="55" alt="ARM"/></a>
+  <a href="https://www.st.com/"><img src="https://cdn.simpleicons.org/stmicroelectronics/FFFFFF" width="55" alt="STM32"/></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab" width="55" alt="MATLAB"/></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"/></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code"/></a>
   <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" width="55" alt="Visual Studio"/></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL"/></a>
-  <a href="https://streamlit.io/"><img src="https://skillicons.dev/icons?i=streamlit" width="55" alt="Streamlit"/></a>
+  <a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit/FFFFFF" width="55" alt="Streamlit"/></a>
 </p>
 
 <br/>
