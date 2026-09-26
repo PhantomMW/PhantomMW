@@ -223,7 +223,7 @@ AI / Cloud development learning and **HCCDA-AI** certification preparation
 <div align="center">
 
 <a href="https://github.com/PhantomMW">
-<img src="https://github-readme-stats.vercel.app/api?username=PhantomMW&show_icons=true&hide_rank=true&hide=stars,followers,issues,prs&include_all_commits=true&theme=github_dark&hide_border=true&custom_title=GitHub%20Activity" height="190" alt="GitHub Activity"/>
+<img src="https://github-stats-extended.vercel.app/api?username=PhantomMW&show_icons=true&hide_rank=true&hide=stars,followers,issues,prs&include_all_commits=true&theme=github_dark&hide_border=true&custom_title=GitHub%20Activity" height="190" alt="GitHub Activity"/>
 </a>
 
 <a href="https://github.com/PhantomMW">
@@ -233,7 +233,7 @@ AI / Cloud development learning and **HCCDA-AI** certification preparation
 <br/><br/>
 
 <a href="https://github.com/PhantomMW">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomMW&layout=compact&langs_count=8&theme=github_dark&hide_border=true&card_width=420" height="190" alt="Most Used Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PhantomMW&layout=compact&langs_count=8&theme=github_dark&hide_border=true&card_width=420" height="190" alt="Most Used Languages"/>
 </a>
 
 </div>
