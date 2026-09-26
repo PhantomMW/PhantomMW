@@ -340,20 +340,6 @@ AI / Cloud development learning and **HCCDA-AI** certification preparation
 
 ---
 
-# 🐍 Contribution Activity
-
-<div align="center">
-
-**View my latest contribution activity directly on GitHub:**
-
-<a href="https://github.com/PhantomMW">
-  <img src="https://img.shields.io/badge/GitHub-PhantomMW-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 # 🎯 Current Focus
 
 ```text
