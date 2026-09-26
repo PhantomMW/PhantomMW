@@ -220,7 +220,7 @@ The system scans different angles, measures distance, and visualizes detected ob
 
 ## 🎮 STM32 Embedded Gaming Hub
 
-### STM32-Based Embedded Gaming System
+### Embedded Gaming System
 
 A modular embedded **Gaming Hub** developed during ITI, combining multiple interactive games and applications into one STM32-based system.
 
@@ -254,7 +254,7 @@ Focus: **Inclusive Early Warning & Disaster Resilience**
 
 # 🎮 ITI Gaming Hub
 
-### STM32-Based Embedded Gaming System
+### Embedded Gaming System
 
 A modular embedded **Gaming Hub** developed during ITI, combining multiple interactive games and applications into one STM32-based system.
 
