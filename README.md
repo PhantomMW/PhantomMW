@@ -281,7 +281,6 @@ A modular embedded **Gaming Hub** developed during ITI, combining multiple inter
 ### 🏢 Information Technology Institute — ITI
 
 - **NVIDIA DLI Institute — LLM Beginner Level**
-- **Embedded Systems AVR Program — 162 Hours**
 
 ### 🟢 NVIDIA DLI
 
