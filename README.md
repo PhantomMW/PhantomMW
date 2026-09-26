@@ -280,6 +280,7 @@ A modular embedded **Gaming Hub** developed during ITI, combining multiple inter
 
 ### 🏢 Information Technology Institute — ITI
 
+- **Embedded Systems AVR Program**
 - **NVIDIA DLI Institute — LLM Beginner Level**
 
 ### 🟢 NVIDIA DLI
