@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90">
+<style>
+text{font-family:Arial,sans-serif;font-size:28px;font-weight:700;fill:#E6EDF3}
+.b{animation:b 1.8s ease-in-out infinite}
+@keyframes b{0%,100%{opacity:1}50%{opacity:.15}}
+</style>
+<text x="450" y="55" text-anchor="middle" class="b">🚀 BUILD • LEARN • ENGINEER • INNOVATE</text>
+</svg>
