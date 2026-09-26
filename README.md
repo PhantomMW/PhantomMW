@@ -27,7 +27,7 @@
 <hr/>
 
 <div align="center">
-<img src="./assets/build-learn-animate.svg" alt="BUILD • LEARN • ENGINEER • INNOVATE" width="900"/>
+<img src="./assets/build-learn-neon.svg" alt="BUILD • LEARN • ENGINEER • INNOVATE" width="900"/>
 </div>
 
 </div>
