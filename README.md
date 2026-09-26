@@ -13,10 +13,10 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Robotics-111827?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-111827?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mechatronics-111827?style=for-the-badge&logo=probot&logoColor=white" />
+  <strong>AI &amp; Machine Learning</strong> &nbsp;•&nbsp;
+  <strong>Robotics</strong> &nbsp;•&nbsp;
+  <strong>Embedded Systems</strong> &nbsp;•&nbsp;
+  <strong>Mechatronics</strong>
 </p>
 
 <br/>
