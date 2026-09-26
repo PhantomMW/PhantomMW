@@ -437,7 +437,7 @@ I've worked with a wide range of embedded and mechatronics components:
 </a>
 
 <a href="https://wa.me/201120742351">
-<img src="https://img.shields.io/badge/WhatsApp-%2B20%2011%20207%2042%20351-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
