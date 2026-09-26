@@ -15,9 +15,6 @@
   <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=PhantomMW&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
