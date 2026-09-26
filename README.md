@@ -216,26 +216,6 @@ The system scans different angles, measures distance, and visualizes detected ob
 
 ---
 
-## 📊 Data Acquisition System — DAQ
-
-A multi-channel measurement system designed around:
-
-- 🔢 10-bit ADC
-- 📥 4 analog channels
-- 🔀 Multiplexing
-- 🔧 Signal conditioning
-- 💻 USB / PC communication
-- 📈 MATLAB / Simulink
-- 🧪 Proteus simulation
-
-Target relationship:
-
-```text
-Vout = 5Vin - 5
-```
-
----
-
 # 🏗️ Project Experience
 
 ## 🎮 ITI Gaming Hub
