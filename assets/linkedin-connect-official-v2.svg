@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="72" viewBox="0 0 320 72">
+<rect width="320" height="72" rx="10" fill="#0A66C2"/>
+
+<!-- LinkedIn official brand mark -->
+<g transform="translate(18 9) scale(2.25)">
+<path fill="#FFFFFF" d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+</g>
+
+<text x="92" y="45" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">CONNECT WITH ME</text>
+
+<g opacity=".22">
+<rect x="-80" y="0" width="70" height="72" fill="#FFFFFF" transform="skewX(-18)">
+<animate attributeName="x" values="-90;350" dur="2.8s" repeatCount="indefinite"/>
+</rect>
+</g>
+<circle cx="292" cy="36" r="4" fill="#FFFFFF" opacity=".8">
+<animate attributeName="r" values="3;6;3" dur="1.6s" repeatCount="indefinite"/>
+</circle>
+</svg>
