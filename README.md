@@ -223,17 +223,23 @@ AI / Cloud development learning and **HCCDA-AI** certification preparation
 <div align="center">
 
 <a href="https://github.com/PhantomMW">
-<img src="https://github-stats-extended.vercel.app/api?username=PhantomMW&show_icons=true&hide_rank=true&hide=stars,followers,issues,prs&include_all_commits=true&theme=github_dark&hide_border=true&custom_title=GitHub%20Activity" height="190" alt="GitHub Activity"/>
-</a>
-
-<a href="https://github.com/PhantomMW">
-<img src="https://streak-stats.demolab.com/?user=PhantomMW&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" height="190" alt="GitHub Contribution Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhantomMW&theme=github_dark" width="96%" alt="GitHub Contribution Activity"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/PhantomMW">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PhantomMW&layout=compact&langs_count=8&theme=github_dark&hide_border=true&card_width=420" height="190" alt="Most Used Languages"/>
+<img src="https://github-stats-extended.vercel.app/api?username=PhantomMW&show_icons=true&hide_rank=true&hide=stars,followers,issues,prs,contribs&include_all_commits=true&theme=github_dark&hide_border=true&custom_title=GitHub%20Development%20Stats&card_width=450&text_bold=true" height="190" alt="GitHub Development Stats"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/PhantomMW">
+<img src="https://streak-stats.demolab.com/?user=PhantomMW&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=58A6FF" height="190" alt="GitHub Contribution Streak"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/PhantomMW">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PhantomMW&layout=donut-vertical&langs_count=6&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=true&card_width=420&custom_title=Most%20Used%20Languages" height="300" alt="Most Used Languages"/>
 </a>
 
 </div>
