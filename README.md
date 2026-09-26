@@ -218,7 +218,7 @@ The system scans different angles, measures distance, and visualizes detected ob
 
 # 🏗️ Project Experience
 
-## 🎮 ITI Gaming Hub
+## 🎮 STM32 Embedded Gaming Hub
 
 ### STM32-Based Embedded Gaming System
 
