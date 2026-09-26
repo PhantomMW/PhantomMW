@@ -433,6 +433,14 @@ I've worked with a wide range of embedded and mechatronics components:
 
 <br/>
 
+<a href="https://www.linkedin.com/in/mohammed-wael-nabil">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/201120742351">
+<img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </div>
 
 ---
