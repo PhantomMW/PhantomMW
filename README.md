@@ -428,15 +428,31 @@ AI / Cloud development learning and **HCCDA-AI** certification preparation
 *"The best projects are built where different fields meet."*
 
 </div<p>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="52" alt="Python"/></a>
-  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="52" alt="PyTorch"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="52" alt="TensorFlow"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="52" alt="Scikit-learn"/></a>
-  <a href="https://keras.io/"><img src="https://skillicons.dev/icons?i=keras" width="52" alt="Keras"/></a>
-  <a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy/FFFFFF" width="52" alt="NumPy"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas/FFFFFF" width="52" alt="Pandas"/></a>
-  <a href="https://opencv.org/"><img src="https://cdn.simpleicons.org/opencv/FFFFFF" width="52" alt="OpenCV"/></a>
-  <a href="https://jupyter.org/"><img src="https://cdn.simpleicons.org/jupyter/FFFFFF" width="52" alt="Jupyter"/></a>
+  <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python"/></a>
+  <a href="https://pytorch.org/" title="PyTorch"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch"/></a>
+  <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow"/></a>
+  <a href="https://scikit-learn.org/" title="Scikit-learn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="Scikit-learn"/></a>
+  <a href="https://keras.io/" title="Keras"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="48" alt="Keras"/></a>
+  <a href="https://numpy.org/" title="NumPy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="NumPy"/></a>
+  <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/></a>
+  <a href="https://opencv.org/" title="OpenCV"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="48" alt="OpenCV"/></a>
+  <a href="https://jupyter.org/" title="Jupyter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter"/></a>
+  <a href="https://openai.com/" title="OpenAI"><img src="https://cdn.simpleicons.org/openai/ffffff" height="48" alt="OpenAI"/></a>
+  <a href="https://ai.google.dev/" title="Gemini"><img src="https://cdn.simpleicons.org/googlegemini/ffffff" height="48" alt="Gemini"/></a>
+  <a href="https://huggingface.co/" title="Hugging Face"><img src="https://cdn.simpleicons.org/huggingface/ffffff" height="48" alt="Hugging Face"/></a>
+  <a href="https://www.langchain.com/" title="LangChain"><img src="https://cdn.simpleicons.org/langchain/ffffff" height="48" alt="LangChain"/></a>
+  <a href="https://isocpp.org/" title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++"/></a>
+  <a href="https://www.arduino.cc/" title="Arduino"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="48" alt="Arduino"/></a>
+  <a href="https://www.espressif.com/" title="ESP32 / Espressif"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/espressif/espressif-original.svg" height="48" alt="ESP32 / Espressif"/></a>
+  <a href="https://www.arm.com/" title="ARM"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arm/arm-original.svg" height="48" alt="ARM"/></a>
+  <a href="https://www.st.com/" title="STM32 / STMicroelectronics"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stmicroelectronics/stmicroelectronics-original.svg" height="48" alt="STM32 / STMicroelectronics"/></a>
+  <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="48" alt="MATLAB"/></a>
+  <a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="Git"/></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="48" alt="GitHub"/></a>
+  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VS Code"/></a>
+  <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="48" alt="Visual Studio"/></a>
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="48" alt="MySQL"/></a>
+  <a href="https://streamlit.io/" title="Streamlit"><img src="https://cdn.simpleicons.org/streamlit/ffffff" height="48" alt="Streamlit"/></a>
 </p>
 
 <p>
