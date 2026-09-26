@@ -11,6 +11,6 @@
   @keyframes wave{0%,100%{transform:rotate(0deg)}20%{transform:rotate(18deg)}40%{transform:rotate(-10deg)}60%{transform:rotate(16deg)}80%{transform:rotate(-4deg)}}
   .txt{font-family:Arial,sans-serif;font-size:42px;font-weight:700;fill:url(#g)}
 </style>
-<text x="220" y="73" font-size="55" class="wave">👋</text>
-<text x="275" y="70" class="txt">Hey, I'm Mohammed!</text>
+<text x="300" y="73" font-size="55" class="wave">👋</text>
+<text x="350" y="70" class="txt">Hi Everyone!</text>
 </svg>
