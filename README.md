@@ -389,7 +389,7 @@ and opportunities to turn ambitious concepts into real-world solutions.
 <br/>
 
 <a href="https://www.linkedin.com/in/mohammed-wael-nabil">
-<img src="./assets/linkedin-connect-v3.svg" width="320" height="72" alt="LinkedIn — Connect With Me"/>
+<img src="./assets/linkedin-connect-official.svg" width="320" height="72" alt="LinkedIn — Connect With Me"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://wa.me/201120742351">
