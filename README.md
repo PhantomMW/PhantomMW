@@ -79,7 +79,7 @@ I enjoy building projects that connect the digital world with the physical world
 <img src="https://skillicons.dev/icons?i=arduino,cpp" />
 </p>
 
-**Arduino · ESP32 · Embedded C · Sensors · Motor Control · IoT · Robotics**
+**Arduino · ESP32 · ARM · AVR · Embedded C · Sensors · Motor Control · IoT · Robotics**
 
 ---
 
