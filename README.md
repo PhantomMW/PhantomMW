@@ -379,21 +379,38 @@ AI / Cloud development learning and **HCCDA-AI** certification preparation
 
 <div align="center">
 
-### 🤝 Open to learning, collaboration, engineering projects, and opportunities.
+### 🤝 Let's build something meaningful together.
+
+<p>
+Open to <strong>collaboration, engineering projects, AI &amp; robotics ideas,</strong><br/>
+and opportunities to turn ambitious concepts into real-world solutions.
+</p>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/mohammed-wael-nabil">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://wa.me/201120742351">
+<img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/201120742351">
-<img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+<br/><br/>
+
+<sub>💡 AI • Robotics • Embedded Systems • Intelligent Engineering</sub>
 
 </div>
 
 ---
+
+<div align="center">
+
+### 🚀 Turning ideas into intelligent systems.
+
+<sub>From code and algorithms to sensors, hardware, and real-world impact.</sub>
+
+</div>
 
 <div align="center">
 
