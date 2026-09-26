@@ -8,7 +8,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/GitHub-PhantomMW-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <a href="https://www.linkedin.com/in/mohammed-wael-nabil">
   <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Wael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
