@@ -11,46 +11,10 @@
 
 <br/>
 
-<p>
-  <!-- AI / Machine Learning -->
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="52" alt="Python"/></a>
-  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="52" alt="PyTorch"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="52" alt="TensorFlow"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="52" alt="scikit-learn"/></a>
-  <a href="https://keras.io/"><img src="https://skillicons.dev/icons?i=keras" width="52" alt="Keras"/></a>
-  <a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" width="52" alt="NumPy"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" width="52" alt="Pandas"/></a>
-  <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="52" alt="OpenCV"/></a>
-  <a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" width="52" alt="Jupyter"/></a>
-</p>
-
-<p>
-  <!-- LLM / Generative AI -->
-  <a href="https://openai.com/"><img src="https://skillicons.dev/icons?i=openai" width="52" alt="OpenAI"/></a>
-  <a href="https://ai.google.dev/"><img src="https://skillicons.dev/icons?i=gemini" width="52" alt="Google Gemini"/></a>
-  <a href="https://huggingface.co/"><img src="https://skillicons.dev/icons?i=huggingface" width="52" alt="Hugging Face"/></a>
-  <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="52" alt="LangChain"/></a>
-</p>
-
-<p>
-  <!-- Robotics / Embedded / Engineering -->
-  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="52" alt="C++"/></a>
-  <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="52" alt="Arduino"/></a>
-  <a href="https://www.espressif.com/en/products/socs/esp32"><img src="https://skillicons.dev/icons?i=esp32" width="52" alt="ESP32"/></a>
-  <a href="https://www.arm.com/"><img src="https://skillicons.dev/icons?i=arm" width="52" alt="ARM"/></a>
-  <a href="https://www.st.com/"><img src="https://cdn.simpleicons.org/stmicroelectronics/FFFFFF" width="52" alt="STM32 / STMicroelectronics"/></a>
-  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab" width="52" alt="MATLAB"/></a>
-</p>
-
-<p>
-  <!-- Development / Tools -->
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="52" alt="Git"/></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="52" alt="VS Code"/></a>
-  <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" width="52" alt="Visual Studio"/></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="52" alt="MySQL"/></a>
-  <a href="https://streamlit.io/"><img src="https://skillicons.dev/icons?i=streamlit" width="52" alt="Streamlit"/></a>
-</p>
+<table align="center">
+<tr><td align="center"><a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python"/></a></td><td align="center"><a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/></a></td><td align="center"><a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/></a></td><td align="center"><a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/></a></td><td align="center"><a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/></a></td><td align="center"><a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino"/></a></td></tr>
+<tr><td align="center"><a href="https://www.espressif.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/espressif/espressif-original.svg" width="48" height="48" alt="ESP32"/></a></td><td align="center"><a href="https://www.st.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stmicroelectronics/stmicroelectronics-original.svg" width="48" height="48" alt="STM32"/></a></td><td align="center"><a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB"/></a></td><td align="center"><a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git"/></a></td><td align="center"><a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/></a></td><td align="center"><a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/></a></td></tr>
+</table>
 
 <br/>
 
