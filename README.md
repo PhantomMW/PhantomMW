@@ -371,13 +371,9 @@ I've worked with a wide range of embedded and mechatronics components:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PhantomMW&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomMW&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=PhantomMW&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/github/followers/PhantomMW?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/stars/PhantomMW?style=for-the-badge&logo=github&label=Total%20Stars" />
+<img src="https://img.shields.io/github/repo-size/PhantomMW/PhantomMW?style=for-the-badge&logo=github&label=Profile%20README%20Size" />
 
 </div>
 
@@ -387,7 +383,11 @@ I've worked with a wide range of embedded and mechatronics components:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PhantomMW/PhantomMW/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+**View my latest contribution activity directly on GitHub:**
+
+<a href="https://github.com/PhantomMW">
+  <img src="https://img.shields.io/badge/GitHub-PhantomMW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
