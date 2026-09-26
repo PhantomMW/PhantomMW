@@ -378,7 +378,6 @@ AI / Cloud development learning and **HCCDA-AI** certification preparation
 - Embedded Systems
 - IoT
 - Automation
-- Backend Development
 - Software Engineering
 - Computer Vision
 - Data Science
