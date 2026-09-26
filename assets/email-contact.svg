@@ -5,4 +5,10 @@
   <path d="M8 14h38c2.2 0 4 1.8 4 4v18c0 2.2-1.8 4-4 4H8c-2.2 0-4-1.8-4-4V18c0-2.2 1.8-4 4-4Zm1 5 18 13 18-13" fill="none" stroke="#EA4335" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 <text x="92" y="45" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">EMAIL ME</text>
+<g opacity=".22"><rect x="-80" y="0" width="70" height="72" fill="#FFFFFF" transform="skewX(-18)">
+<animate attributeName="x" values="-90;350" dur="2.8s" repeatCount="indefinite"/>
+</rect></g>
+<circle cx="292" cy="36" r="4" fill="#FFFFFF" opacity=".8">
+<animate attributeName="r" values="3;6;3" dur="1.6s" repeatCount="indefinite"/>
+</circle>
 </svg>
