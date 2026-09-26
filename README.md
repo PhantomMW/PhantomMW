@@ -264,9 +264,7 @@ Contributed to the development of a robotics simulation system focused on motion
 
 # 🏆 Competition Experience
 
-## 🥇 / 🥈 / 🏅 Selected Competitions & Hackathons
-
-### 🏆 AI for All Hackathon
+## 🥈 AI for All Hackathon
 **MONJED AI — 2nd Place**  
 Regional Hackathon Final Stage
 
@@ -274,22 +272,27 @@ Focus: **Inclusive Early Warning & Disaster Resilience**
 
 ---
 
-### 🏆 Hult Prize — Delta University for Science and Technology
+# 🎮 ITI Gaming Hub
 
-**Team Stactonix AI**
+### STM32-Based Embedded Gaming System
 
-Achieved **5th Place** with a robotics simulation project combining technology, simulation, and real-world problem solving.
+A modular embedded **Gaming Hub** developed during ITI, combining multiple interactive games and applications into one STM32-based system.
 
----
+### Features
 
-### ⚡ IEEE CASS Student Design Competition
+- 🧮 Math Quiz
+- 🧠 Memory Match
+- 🐍 Snake Game
+- 🎵 Music Maker
+- ⚙️ Settings
+- 🖥️ ST7735S TFT Display
+- 💡 8×8 LED Matrix
+- 🎮 Physical Buttons & IR Remote
+- 🔊 Audio / Sound Control
 
-Participated in the university track with **Team Stactonix AI**, contributing to:
+### Technologies
 
-- Robotics simulation
-- C++ control logic
-- Kinematics components
-- Motion / positioning logic
+**ARM / STM32 · Embedded C · GPIO · Timers · EXTI / Interrupts · ST7735S TFT · 74HC595 Shift Registers · NEC IR Decoding · DAC / Audio**
 
 ---
 
