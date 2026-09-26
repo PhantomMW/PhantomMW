@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-<img src="./assets/hi-there-animated.svg" alt="Hi there, I'm Mohammed Wael!" width="100%"/>
+<img src="./assets/welcome-mohammed.svg" alt="Hi there, I'm Mohammed Wael!" width="100%"/>
 </div>
 
 <br/>
