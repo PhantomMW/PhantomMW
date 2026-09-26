@@ -307,23 +307,6 @@ AI / Cloud development learning and **HCCDA-AI** certification preparation
 
 ---
 
-# 🔬 Hardware & Engineering
-
-I've worked with a wide range of embedded and mechatronics components:
-
-| Category | Technologies |
-|---|---|
-| 🧠 Microcontrollers | Arduino, ESP32, ATmega32 / AVR |
-| 🌡️ Sensors | DHT22, IR, LDR, MQ-series, Ultrasonic, MPU6050, Rain / Water-level |
-| ⚙️ Motors | DC Motors, Servo, NEMA17 Stepper |
-| 🔌 Drivers | A4988, ULN2003 |
-| 📡 Communication | UART, I²C, SPI concepts, Wi-Fi, LoRa |
-| 🧪 Simulation | Proteus, MATLAB / Simulink, Tinkercad |
-| 💻 Development | VS Code, Visual Studio, Git, GitHub |
-| 🌐 Applications | Streamlit, AI APIs, Web Applications |
-
----
-
 # 🧭 My Engineering Path
 
 ```text
