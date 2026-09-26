@@ -392,6 +392,10 @@ and opportunities to turn ambitious concepts into real-world solutions.
 <img src="./assets/linkedin-connect-official-v2.svg" width="320" height="72" alt="LinkedIn — Connect With Me"/>
 </a>
 &nbsp;&nbsp;
+<a href="mailto:mw252869@gmail.com">
+<img src="./assets/email-contact.svg" width="320" height="72" alt="Email — mw252869@gmail.com"/>
+</a>
+&nbsp;&nbsp;
 <a href="https://wa.me/201120742351">
 <img src="./assets/whatsapp-message-animated.svg" width="320" height="72" alt="WhatsApp — Message Me"/>
 </a>
