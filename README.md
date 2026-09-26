@@ -239,18 +239,27 @@ Vout = 5Vin - 5
 
 # 🏗️ Project Experience
 
-## ⚙️ Team Stactonix AI — Robotics Simulation
+## 🎮 ITI Gaming Hub
 
-Contributed to the development of a robotics simulation system focused on motion logic, kinematics, and browser-based execution.
+### STM32-Based Embedded Gaming System
 
-### Contributions
+A modular embedded **Gaming Hub** developed during ITI, combining multiple interactive games and applications into one STM32-based system.
 
-- 🤖 Core robotics simulation logic using **C++**
-- 📐 Forward & Inverse Kinematics
-- 🎯 Precise joint positioning
-- 📊 Motion logic across X, Y, and Z axes
-- 🌐 C++ → WebAssembly integration for browser execution
-- ⚙️ Physical-constraint-aware simulation
+### Features
+
+- 🧮 Math Quiz
+- 🧠 Memory Match
+- 🐍 Snake Game
+- 🎵 Music Maker
+- ⚙️ Settings
+- 🖥️ ST7735S TFT Display
+- 💡 8×8 LED Matrix
+- 🎮 Physical Buttons & IR Remote
+- 🔊 Audio / Sound Control
+
+### Technologies
+
+**ARM / STM32 · Embedded C · GPIO · Timers · EXTI / Interrupts · ST7735S TFT · 74HC595 Shift Registers · NEC IR Decoding · DAC / Audio**
 
 ---
 
