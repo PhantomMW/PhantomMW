@@ -1,16 +1,34 @@
 <div align="center">
 
-# 👋 MOHAMMED WAEL NABIL
+<h1>👋 Welcome to My GitHub Profile</h1>
 
-### 🤖 AI • Robotics • Embedded Systems • Software Engineering
+<h2>MOHAMMED WAEL NABIL</h2>
 
-**Mechatronics Engineering Student building intelligent systems at the intersection of AI, software, electronics, and robotics.**
+<p>
+  <strong>🤖 AI • Robotics • Embedded Systems • Software Engineering</strong>
+</p>
+
+<p>
+  <em>Mechatronics Engineering Student building intelligent systems at the intersection of AI, software, electronics, and robotics.</em>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics-111827?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-111827?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mechatronics-111827?style=for-the-badge&logo=probot&logoColor=white" />
+</p>
 
 <br/>
+
+<p>
+  <strong>🚀 BUILDING • LEARNING • ENGINEERING • INNOVATING</strong>
+</p>
 
 </div>
 
 ---
+
 
 ## 🧠 About Me
 
