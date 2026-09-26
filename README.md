@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=MOHAMMED%20WAEL%20NABIL&fontSize=42&fontColor=ffffff&animation=twinkling&color=gradient" width="100%" alt="MOHAMMED WAEL NABIL"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=MOHAMMED%20WAEL%20NABIL&fontSize=58&fontColor=ffffff&animation=twinkling&color=gradient" width="100%" alt="MOHAMMED WAEL NABIL"/>
 
 <br/>
 
