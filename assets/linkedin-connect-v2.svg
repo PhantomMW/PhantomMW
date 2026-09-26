@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="72" viewBox="0 0 320 72">
+<rect width="320" height="72" rx="10" fill="#0A66C2"/>
+<g transform="translate(20 14)">
+<rect x="0" y="0" width="44" height="44" rx="7" fill="#fff"/>
+<text x="22" y="34" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="700" letter-spacing="-3" fill="#0A66C2">in</text>
+</g>
+<text x="82" y="45" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fff">CONNECT WITH ME</text>
+<g opacity=".22"><rect x="-80" y="0" width="70" height="72" fill="#fff" transform="skewX(-18)">
+<animate attributeName="x" values="-90;350" dur="2.8s" repeatCount="indefinite"/>
+</rect></g>
+<circle cx="292" cy="36" r="4" fill="#fff" opacity=".8">
+<animate attributeName="r" values="3;6;3" dur="1.6s" repeatCount="indefinite"/>
+</circle>
+</svg>
