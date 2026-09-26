@@ -59,7 +59,7 @@ I enjoy building projects that connect the digital world with the physical world
 <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,html,css,php" />
 </p>
 
-**Python · C · C++ · C# · Java · JavaScript · HTML · CSS · PHP · OOP · Data Structures · Problem Solving**
+**Python · C · C++ · OOP · Data Structures · Problem Solving**
 
 ---
 
