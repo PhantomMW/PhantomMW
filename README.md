@@ -158,19 +158,19 @@ I enjoy building projects that connect the digital world with the physical world
 
 # 🏆 Competition Experience
 
-## 🥈 AI for All Hackathon
-**MONJED AI — 2nd Place**  
-Regional Hackathon Final Stage
-
-Focus: **Inclusive Early Warning & Disaster Resilience**
-
----
-
 ### 🥇 Robotiada Egypt
 **MONJED AI — 1st Place**  
 Robotiada Egypt Competition
 
 Focus: **Intelligent Systems, AI-Powered Disaster Response & Real-World Innovation**
+
+---
+
+## 🥈 AI for All Hackathon
+**MONJED AI — 2nd Place**  
+Regional Hackathon Final Stage
+
+Focus: **Inclusive Early Warning & Disaster Resilience**
 
 ---
 
