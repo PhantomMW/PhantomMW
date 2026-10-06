@@ -170,6 +170,10 @@ Focus: **Inclusive Early Warning & Disaster Resilience**
 **MONJED AI — 1st Place**  
 Robotiada Egypt Competition
 
+Focus: **Autonomous Robotics, AI-Powered Disaster Response & Real-World Innovation**
+
+A smart emergency-response solution that combines **AI, robotics, IoT, and intelligent decision-making** to support faster, safer, and more effective disaster response.
+
 ---
 
 # 🎓 Learning & Training
