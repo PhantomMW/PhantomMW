@@ -167,8 +167,7 @@ Focus: **Intelligent Systems, AI-Powered Disaster Response & Real-World Innovati
 ---
 
 ## 🥈 AI for All Hackathon
-**MONJED AI — 2nd Place**  
-**🥈 2nd Place Across the African Continent**  
+**MONJED AI — 🥈 2nd Place Across the African Continent**  
 Regional Hackathon Final Stage
 
 Focus: **Inclusive Early Warning & Disaster Resilience**
