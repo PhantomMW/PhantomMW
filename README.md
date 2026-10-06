@@ -166,6 +166,12 @@ Focus: **Inclusive Early Warning & Disaster Resilience**
 
 ---
 
+### 🥇 Robotiada Egypt
+**MONJED AI — 1st Place**  
+Robotiada Egypt Competition
+
+---
+
 # 🎓 Learning & Training
 
 ### 🏢 Information Technology Institute — ITI
