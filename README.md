@@ -148,7 +148,7 @@ I enjoy building projects that connect the digital world with the physical world
 ### 🏆 Achievement
 
 **🥈 2nd Place — AI for All Hackathon**  
-**Phase III — Regional Hackathon Final Stage**
+**Phase III — Regional Hackathon Final Stage — **2nd Place in Africa****
 
 **Theme:** Building Inclusive Solutions for Early Warning & Disaster Resilience
 
