@@ -103,7 +103,7 @@ I enjoy building projects that connect the digital world with the physical world
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhantomMW&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="PhantomMW GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhantomMW&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="PhantomMW GitHub Contributions"/>
 
 <br/>
 
@@ -111,11 +111,11 @@ I enjoy building projects that connect the digital world with the physical world
 
 <br/><br/>
 
-<table>
+<table width="100%">
 <tr>
-<td width="42%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 
-<img src="https://github.com/PhantomMW.png?size=500" width="300" alt="Mohammed Wael Nabil"/>
+<img src="https://github.com/PhantomMW.png?size=500" width="330" alt="Mohammed Wael Nabil"/>
 
 <br/><br/>
 
@@ -129,9 +129,9 @@ AI &amp; ML • Robotics • Embedded Systems
 
 </td>
 
-<td width="58%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 
-<img src="https://github-stats-extended.vercel.app/api?username=PhantomMW&show_icons=true&hide_rank=true&hide=stars,followers,issues,prs,contribs&include_all_commits=true&theme=github_dark&hide_border=true&custom_title=Development%20Stats&card_width=500&text_bold=true" width="100%" alt="PhantomMW Development Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=PhantomMW&show_icons=true&hide_rank=true&hide=stars,followers,issues,prs,contribs&include_all_commits=true&theme=github_dark&hide_border=true&custom_title=Development%20Stats&card_width=520&text_bold=true" width="100%" alt="PhantomMW Development Stats"/>
 
 <br/><br/>
 
@@ -139,13 +139,15 @@ AI &amp; ML • Robotics • Embedded Systems
 
 <br/><br/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PhantomMW&layout=donut-vertical&langs_count=6&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=true&card_width=420&custom_title=Most%20Used%20Languages" width="75%" alt="PhantomMW Most Used Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PhantomMW&layout=donut-vertical&langs_count=6&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=true&card_width=420&custom_title=Most%20Used%20Languages" width="82%" alt="PhantomMW Most Used Languages"/>
 
 </td>
 </tr>
 </table>
 
 </div>
+
+---
 
 # 🚀 Featured Projects
 
