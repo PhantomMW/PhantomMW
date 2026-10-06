@@ -94,6 +94,80 @@ I enjoy building projects that connect the digital world with the physical world
 
 ---
 
+
+---
+
+# 🖥️ Developer Dashboard
+
+<div align="center">
+
+<table>
+<tr>
+<td width="30%" align="center" valign="top">
+
+<img src="https://github.com/PhantomMW.png?size=300" width="210" alt="Mohammed Wael Nabil"/>
+
+<br/><br/>
+
+<h3>Mohammed Wael Nabil</h3>
+
+<strong>@PhantomMW</strong>
+
+<br/><br/>
+
+<em>Mechatronics Engineering Student</em><br/>
+<em>AI &amp; ML • Robotics • Embedded Systems</em>
+
+<br/><br/>
+
+<code>phantom@github ~ $ whoami</code>
+
+<br/><br/>
+
+Building intelligent systems that<br/>
+connect AI with the real world.
+
+</td>
+
+<td width="70%" valign="top">
+
+<pre>
+phantom@github ~ $ ./contributions.sh
+</pre>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhantomMW&theme=github-compact&hide_border=true&area=true" width="100%" alt="PhantomMW GitHub Contribution Graph"/>
+
+<br/>
+
+<pre>
+phantom@github ~ $ ./stats.sh
+</pre>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<strong>🔥 Contribution Streak</strong><br/>
+<img src="https://streak-stats.demolab.com/?user=PhantomMW&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF" width="100%" alt="GitHub Contribution Streak"/>
+
+</td>
+<td align="center">
+
+<strong>📊 Development Stats</strong><br/>
+<img src="https://github-stats-extended.vercel.app/api?username=PhantomMW&show_icons=true&hide_rank=true&hide=stars,followers,issues,prs,contribs&include_all_commits=true&theme=github_dark&hide_border=true&custom_title=Development%20Stats&card_width=450&text_bold=true" width="100%" alt="GitHub Development Stats"/>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> **BUILD • LEARN • ENGINEER • INNOVATE** — turning ideas into intelligent real-world systems.
+
 # 🚀 Featured Projects
 
 ## 🌍 MONJED AI
