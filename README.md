@@ -1,51 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=MOHAMMED%20WAEL%20NABIL&fontSize=58&fontColor=ffffff&animation=twinkling&color=gradient" width="100%" alt="MOHAMMED WAEL NABIL"/>
+# 👋 MOHAMMED WAEL NABIL
+
+### 🤖 AI • Robotics • Embedded Systems • Software Engineering
+
+**Mechatronics Engineering Student building intelligent systems at the intersection of AI, software, electronics, and robotics.**
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+%26+MACHINE+LEARNING+%E2%80%A2+ROBOTICS;EMBEDDED+SYSTEMS+%E2%80%A2+MECHATRONICS;BUILDING+INTELLIGENT+SYSTEMS;EXPLORING+THE+FUTURE+OF+AI" alt="Typing animation"/>
+<img src="https://img.shields.io/badge/GitHub-PhantomMW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/mohammed-wael-nabil">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Wael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://wa.me/201120742351">
+  <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<p>
-  <strong>Mechatronics Engineering Student</strong> | <strong>AI &amp; Robotics Enthusiast</strong><br/>
-  Building Intelligent Systems &amp; Exploring the Future of AI
-</p>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="./assets/hi-everyone-centered-v2.svg" alt="Hi there, I'm Mohammed Wael!" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-<a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="63" height="63" alt="Python"/></a>&nbsp;&nbsp;<a href="https://pytorch.org/" title="PyTorch"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="63" height="63" alt="PyTorch"/></a>&nbsp;&nbsp;<a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="63" height="63" alt="TensorFlow"/></a>&nbsp;&nbsp;<a href="https://keras.io/" title="Keras"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="63" height="63" alt="Keras"/></a>&nbsp;&nbsp;<a href="https://scikit-learn.org/" title="Scikit-learn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="63" height="63" alt="Scikit-learn"/></a>&nbsp;&nbsp;<a href="https://numpy.org/" title="NumPy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="63" height="63" alt="NumPy"/></a>&nbsp;&nbsp;<a href="https://pandas.pydata.org/" title="Pandas"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="63" height="63" alt="Pandas"/></a>&nbsp;&nbsp;<a href="https://opencv.org/" title="OpenCV"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="63" height="63" alt="OpenCV"/></a>&nbsp;&nbsp;<a href="https://jupyter.org/" title="Jupyter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="63" height="63" alt="Jupyter"/></a>&nbsp;&nbsp;<a href="https://isocpp.org/" title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="63" height="63" alt="C++"/></a>&nbsp;&nbsp;<a href="https://ai.google.dev/" title="Gemini / Generative AI"><img src="https://cdn.simpleicons.org/googlegemini/FFFFFF" width="63" height="63" alt="Gemini / Generative AI"/></a>&nbsp;&nbsp;<a href="https://openai.com/" title="OpenAI"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" width="63" height="63" alt="OpenAI"/></a>&nbsp;&nbsp;<br/><br/>
-<a href="https://www.arduino.cc/" title="Arduino"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="63" height="63" alt="Arduino"/></a>&nbsp;&nbsp;<a href="https://www.espressif.com/" title="ESP32"><img src="https://cdn.simpleicons.org/espressif/FFFFFF" width="63" height="63" alt="ESP32"/></a>&nbsp;&nbsp;<a href="https://www.st.com/" title="STM32"><img src="https://cdn.simpleicons.org/stmicroelectronics/FFFFFF" width="63" height="63" alt="STM32"/></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/products/matlab.html" title="MATLAB / Simulink"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="63" height="63" alt="MATLAB / Simulink"/></a>&nbsp;&nbsp;<a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="63" height="63" alt="Git"/></a>&nbsp;&nbsp;<a href="https://github.com/" title="GitHub"><img src="./assets/github-dark-icon.svg" width="63" height="63" alt="GitHub"/></a>&nbsp;&nbsp;<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="63" height="63" alt="VS Code"/></a>&nbsp;&nbsp;<a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="63" height="63" alt="Visual Studio"/></a>&nbsp;&nbsp;<a href="https://www.mysql.com/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="63" height="63" alt="MySQL"/></a>&nbsp;&nbsp;<a href="https://streamlit.io/" title="Streamlit"><img src="https://cdn.simpleicons.org/streamlit/FFFFFF" width="63" height="63" alt="Streamlit"/></a>&nbsp;&nbsp;<a href="https://www.arm.com/" title="ARM"><img src="https://cdn.simpleicons.org/arm/FFFFFF" width="63" height="63" alt="ARM"/></a>&nbsp;&nbsp;<a href="https://www.raspberrypi.com/" title="Raspberry Pi"><img src="https://cdn.simpleicons.org/raspberrypi/FFFFFF" width="63" height="63" alt="Raspberry Pi"/></a>&nbsp;&nbsp;
-</div>
-
-<br/>
-
-<hr/>
-
-<div align="center">
-<img src="./assets/build-learn-neon.svg" alt="BUILD • LEARN • ENGINEER • INNOVATE" width="900"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=PhantomMW&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
-
-
-
-
-
-
-
 
 ## 🧠 About Me
 
@@ -53,7 +30,7 @@ I'm **Mohammed Wael Nabil**, a **Mechatronics Engineering student** with a stron
 
 I enjoy building projects that connect the digital world with the physical world — from **AI-powered applications and backend systems** to **microcontrollers, sensors, motors, IoT devices, and autonomous robotic concepts**.
 
-### What I care about:
+### What I care about
 
 - 🧠 Artificial Intelligence & Generative AI
 - 🤖 Robotics & Intelligent Automation
@@ -72,80 +49,41 @@ I enjoy building projects that connect the digital world with the physical world
 
 ### 🧠 AI / Machine Learning
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
 **Python · Machine Learning · Deep Learning · Generative AI · LLM APIs · AI Agents · Prompt Engineering · AI Applications**
 
 ---
 
 ### 💻 Programming & Software
 
-**Python · C · C++ · OOP · Data Structures · Problem Solving**
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,html,css,php" />
+</p>
+
+**Python · C · C++ · C# · Java · JavaScript · HTML · CSS · PHP · OOP · Data Structures · Problem Solving**
 
 ---
 
 ### 🤖 Robotics / Embedded / IoT
 
-**Arduino · ESP32 · ARM · AVR · Embedded C · Sensors · Motor Control · IoT · Robotics**
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,cpp" />
+</p>
+
+**Arduino · ESP32 · AVR / ATmega32 · Embedded C · Sensors · Motor Control · Stepper Motors · Servo Motors · IoT · Robotics**
 
 ---
 
 ### 🗄️ Databases / Tools / Engineering
 
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio" />
+</p>
+
 **SQL · Git · GitHub · VS Code · Visual Studio · MATLAB / Simulink · Proteus · Tinkercad · Streamlit**
-
----
-
----
-
-
----
-
-# 🖥️ `phantom@github ~ $ whoami`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhantomMW&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="PhantomMW GitHub Contributions"/>
-
-<br/>
-
-<code>phantom@github ~ $ whoami</code>
-
-<br/><br/>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-<img src="https://raw.githubusercontent.com/PhantomMW/PhantomMW/main/assets/profile-sketch-animated.svg" width="330" alt="Mohammed Wael Nabil animated sketch"/>
-
-<br/><br/>
-
-<strong>Mohammed Wael Nabil</strong><br/>
-<code>@PhantomMW</code>
-
-<br/><br/>
-
-Mechatronics Engineering Student<br/>
-AI &amp; ML • Robotics • Embedded Systems
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<img src="https://github-stats-extended.vercel.app/api?username=PhantomMW&show_icons=true&hide_rank=true&hide=stars,followers,issues,prs,contribs&include_all_commits=true&theme=github_dark&hide_border=true&custom_title=Development%20Stats&card_width=520&text_bold=true" width="100%" alt="PhantomMW Development Stats"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=PhantomMW&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF" width="100%" alt="PhantomMW Contribution Streak"/>
-
-<br/><br/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PhantomMW&layout=donut-vertical&langs_count=6&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=true&card_width=420&custom_title=Most%20Used%20Languages" width="82%" alt="PhantomMW Most Used Languages"/>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -209,9 +147,130 @@ AI &amp; ML • Robotics • Embedded Systems
 
 ---
 
+# 📄 ResumeAI Pro
+
+### AI Resume Analyzer & ATS Optimizer
+
+A full AI-powered career application built around **Python, Streamlit, and Generative AI**.
+
+### Features
+
+- 📊 Resume scoring
+- 🤖 AI-powered resume analysis
+- 🎯 ATS optimization
+- 🧩 Skill-gap analysis
+- ✍️ Resume improvement
+- 📨 Cover-letter generation
+- 👤 LinkedIn profile content
+- 💬 Resume chat
+- 📑 PDF reports
+- 📚 Analysis history
+- 💡 AI career assistance
+
+### Tech
+
+```text
+Python
+Streamlit
+Google Gemini
+PDFPlumber
+python-docx
+Plotly
+ReportLab
+Generative AI
+```
+
+🔗 **Live Demo:** https://phantommw-resumeai.streamlit.app/  
+---
+
+# 🤖 Robotics Projects
+
+## 🍽️ Restaurant Delivery Robot
+
+A mobile robot concept designed to navigate between **six tables** using a black-line track.
+
+### Concepts
+
+- 🔴 IR line-following
+- ⚙️ Motor control
+- 🧭 Navigation logic
+- 📦 Table-to-table delivery
+- 🤖 Autonomous movement
+- 🔮 Future localization / SLAM expansion
+
+---
+
+## 🏫 Smart Class — IoT Automation
+
+An embedded smart-classroom system combining sensing, identification, automation, and environmental monitoring.
+
+### Hardware
+
+**ESP32 · DHT22 · IR Sensor · LDR · RFID · MQ-2 · NEMA17 · A4988 · 12V Fan · LED Strip**
+
+### Functions
+
+- 🌡️ Temperature / humidity monitoring
+- 💡 Smart lighting
+- 🪪 RFID identification
+- 🧪 Gas detection
+- 🌬️ Automated cooling
+- ⚙️ Stepper motor control
+
+---
+
+## 📡 Radar Detection System
+
+A radar-style detection prototype based on:
+
+**ESP32 + Ultrasonic Sensor + Servo Motor + LCD + Blynk**
+
+The system scans different angles, measures distance, and visualizes detected objects.
+
+---
+
+## 📊 Data Acquisition System — DAQ
+
+A multi-channel measurement system designed around:
+
+- 🔢 10-bit ADC
+- 📥 4 analog channels
+- 🔀 Multiplexing
+- 🔧 Signal conditioning
+- 💻 USB / PC communication
+- 📈 MATLAB / Simulink
+- 🧪 Proteus simulation
+
+Target relationship:
+
+```text
+Vout = 5Vin - 5
+```
+
+---
+
+# 🏗️ Project Experience
+
+## ⚙️ Team Stactonix AI — Robotics Simulation
+
+Contributed to the development of a robotics simulation system focused on motion logic, kinematics, and browser-based execution.
+
+### Contributions
+
+- 🤖 Core robotics simulation logic using **C++**
+- 📐 Forward & Inverse Kinematics
+- 🎯 Precise joint positioning
+- 📊 Motion logic across X, Y, and Z axes
+- 🌐 C++ → WebAssembly integration for browser execution
+- ⚙️ Physical-constraint-aware simulation
+
+---
+
 # 🏆 Competition Experience
 
-## 🥈 AI for All Hackathon
+## 🥇 / 🥈 / 🏅 Selected Competitions & Hackathons
+
+### 🏆 AI for All Hackathon
 **MONJED AI — 2nd Place**  
 Regional Hackathon Final Stage
 
@@ -219,13 +278,31 @@ Focus: **Inclusive Early Warning & Disaster Resilience**
 
 ---
 
+### 🏆 Hult Prize — Delta University for Science and Technology
+
+**Team Stactonix AI**
+
+Achieved **5th Place** with a robotics simulation project combining technology, simulation, and real-world problem solving.
+
+---
+
+### ⚡ IEEE CASS Student Design Competition
+
+Participated in the university track with **Team Stactonix AI**, contributing to:
+
+- Robotics simulation
+- C++ control logic
+- Kinematics components
+- Motion / positioning logic
+
+---
+
 # 🎓 Learning & Training
 
 ### 🏢 Information Technology Institute — ITI
 
-- **Embedded Systems AVR Program**
-- **Embedded Systems ARM Program**
-- **NVIDIA DLI Institute — LLM Beginner Level**
+- **Python Programming — 35 Hours**
+- **Embedded Systems AVR Program — 162 Hours**
 
 ### 🟢 NVIDIA DLI
 
@@ -251,6 +328,23 @@ AI / Cloud development learning and **HCCDA-AI** certification preparation
 
 ---
 
+# 🔬 Hardware & Engineering
+
+I've worked with a wide range of embedded and mechatronics components:
+
+| Category | Technologies |
+|---|---|
+| 🧠 Microcontrollers | Arduino, ESP32, ATmega32 / AVR |
+| 🌡️ Sensors | DHT22, IR, LDR, MQ-series, Ultrasonic, MPU6050, Rain / Water-level |
+| ⚙️ Motors | DC Motors, Servo, NEMA17 Stepper |
+| 🔌 Drivers | A4988, ULN2003 |
+| 📡 Communication | UART, I²C, SPI concepts, Wi-Fi, LoRa |
+| 🧪 Simulation | Proteus, MATLAB / Simulink, Tinkercad |
+| 💻 Development | VS Code, Visual Studio, Git, GitHub |
+| 🌐 Applications | Streamlit, AI APIs, Web Applications |
+
+---
+
 # 🧭 My Engineering Path
 
 ```text
@@ -273,31 +367,46 @@ AI / Cloud development learning and **HCCDA-AI** certification preparation
 
 ---
 
-# 📊 GitHub Activity & Coding Profile
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/PhantomMW">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhantomMW&theme=github_dark" width="96%" alt="GitHub Contribution Activity"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=PhantomMW&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomMW&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-<a href="https://github.com/PhantomMW">
-<img src="https://github-stats-extended.vercel.app/api?username=PhantomMW&show_icons=true&hide_rank=true&hide=stars,followers,issues,prs,contribs&include_all_commits=true&theme=github_dark&hide_border=true&custom_title=GitHub%20Development%20Stats&card_width=450&text_bold=true" height="190" alt="GitHub Development Stats"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/PhantomMW">
-<img src="https://streak-stats.demolab.com/?user=PhantomMW&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=58A6FF" height="190" alt="GitHub Contribution Streak"/>
-</a>
+<br/>
 
-<br/><br/>
-
-<a href="https://github.com/PhantomMW">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PhantomMW&layout=donut-vertical&langs_count=6&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=true&card_width=420&custom_title=Most%20Used%20Languages" height="300" alt="Most Used Languages"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=PhantomMW&theme=tokyonight&hide_border=true" />
 
 </div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PhantomMW/PhantomMW/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+🧠 Generative AI
+🤖 Intelligent Robotics
+🔌 Embedded Systems
+🌐 AI-Powered Applications
+📊 Machine Learning
+⚙️ Automation & Control
+☁️ AI + Cloud
+🚀 Real-World Engineering Projects
+```
+
+---
 
 # 💡 Areas of Interest
 
@@ -308,6 +417,7 @@ AI / Cloud development learning and **HCCDA-AI** certification preparation
 - Embedded Systems
 - IoT
 - Automation
+- Backend Development
 - Software Engineering
 - Computer Vision
 - Data Science
@@ -319,33 +429,30 @@ AI / Cloud development learning and **HCCDA-AI** certification preparation
 
 <div align="center">
 
-<h2>🤝 Let's build something meaningful together.</h2>
-
-<p>
-<strong>Open to collaboration, engineering projects, AI &amp; robotics ideas,</strong><br/>
-and opportunities to turn ambitious concepts into real-world solutions.
-</p>
+### 🤝 Open to learning, collaboration, engineering projects, and opportunities.
 
 <br/>
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/mohammed-wael-nabil">
-<img src="./assets/linkedin-connect-official-v2.svg" width="320" height="72" alt="LinkedIn — Connect With Me"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://wa.me/201120742351">
-<img src="./assets/whatsapp-message-animated.svg" width="320" height="72" alt="WhatsApp — Message Me"/>
-</a>
-
-<br/>
-
-<a href="mailto:mw252869@gmail.com">
-<img src="./assets/email-contact-v2.svg" width="320" height="72" alt="Email — mw252869@gmail.com"/>
+<img src="https://img.shields.io/badge/WhatsApp-%2B20%2011%20207%2042%20351-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
 
-<h3>💡 AI • Robotics • Embedded Systems • Intelligent Engineering</h3>
+---
+
+<div align="center">
+
+### ⚡ BUILD • LEARN • ENGINEER • INNOVATE
+
+**AI × Robotics × Embedded Systems × Software**
+
+<br/>
+
+*"The best projects are built where different fields meet."*
 
 </div>
