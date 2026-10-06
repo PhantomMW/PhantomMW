@@ -115,7 +115,7 @@ I enjoy building projects that connect the digital world with the physical world
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="https://github.com/PhantomMW.png?size=500" width="330" alt="Mohammed Wael Nabil"/>
+<img src="https://raw.githubusercontent.com/PhantomMW/PhantomMW/main/assets/profile-sketch-animated.svg" width="330" alt="Mohammed Wael Nabil animated sketch"/>
 
 <br/><br/>
 
